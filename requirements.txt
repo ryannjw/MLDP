@@ -1,7 +1,7 @@
 ipykernel
 numpy
 pandas
-matplotlit
+matplotlib
 seaborn
 scikit-learn
 joblib
