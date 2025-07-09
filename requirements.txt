@@ -4,5 +4,5 @@ pandas
 matplotlit
 seaborn
 scikit-learn
-joblit
+joblib
 streamlit
